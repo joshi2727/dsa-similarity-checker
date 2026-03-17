@@ -40,7 +40,7 @@ This project strictly follows the **Spring MVC Layered Architecture** for clean 
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/joshi2727/problem-similarity-checker.git](https://github.com/joshi2727/problem-similarity-checker.git)
+   git clone https://github.com/joshi2727/dsa-similarity-checker.git
    cd dsa-similarity-checker
 2. **Build and Run the Spring Boot Server:**
 ```bash
